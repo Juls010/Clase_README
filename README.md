@@ -86,5 +86,35 @@ EJEMPLO PARA INSERTAR IMAGEN
 
 
 ![pingu](https://github.com/user-attachments/assets/c78455ab-1d62-43a1-95b8-b2919c38c08e)
-<img src="https://github.com/user-attachments/assets/c78455ab-1d62-43a1-95b8-b2919c38c08e" witdth = 
+
+<img src="https://github.com/user-attachments/assets/c78455ab-1d62-43a1-95b8-b2919c38c08e" width="200"> 
+
+
+EJEMPLO DE ENLACES
+
+[Readme](https://es.lipsum.com/)
+
+
+
+EJEMPLO DE ENLACES AUTOMATICOS
+<https://es.lipsum.com/>
+
+ EJEMPLO DE EMOJI 
+ 
+ 😍 
+
+
+ EJEMPLO DE BLOQUE DE CODIGO
+
+ ```bash
+  npm install
+```
+
+``` javascript
+    function decirHola (){
+    console.log('Hola')
+}
+
+```
+
 
